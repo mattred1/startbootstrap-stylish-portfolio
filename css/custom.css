@@ -1,0 +1,91 @@
+/*START CSS CAROUSEL*/
+
+.carousel-fade {
+    .carousel-inner {
+/*        width: 30%;
+*/        .item {
+            transition-property: opacity;
+        }
+        
+        .item,
+        .active.left,
+        .active.right {
+            opacity: 0;
+        }
+
+        .active,
+        .next.left,
+        .prev.right {
+            opacity: 1;
+        }
+
+        .next,
+        .prev,
+        .active.left,
+        .active.right {
+            left: 0;
+            transform: translate3d(0, 0, 0);
+        }
+    }
+
+    .carousel-control {
+        z-index: 2;
+    }
+}
+
+
+
+html, 
+body, 
+.carousel, 
+.carousel-inner, 
+.carousel-inner .item {
+    height: 100%;
+}
+
+.item:nth-child(1) {
+    background-image: url(http://via.placeholder.com/400x400);
+    width: 400px;
+    height: 400px;
+}
+
+.item:nth-child(2) {
+    background: orange;
+}
+
+.item:nth-child(3) {
+    background: yellow;
+}
+
+.item:nth-child(4) {
+    background: green;
+}
+
+.item:nth-child(5) {
+    background: blue;
+}
+
+.item:nth-child(6) {
+    background: white;
+}
+
+.item:nth-child(7) {
+    background: purple;
+}
+
+.item:nth-child(8) {
+    background: black;
+}
+
+.item:nth-child(9) {
+    background: gray;
+}
+
+/* END CAROUSEL CSS */
+
+
+.no-bottom-margin {
+    margin-bottom: 0px;
+}
+
+
