@@ -1,3 +1,25 @@
+.no-bottom-margin {
+    margin-bottom: 0px;
+}
+
+@font-face {
+    font-family: "FairfaxStationNF";
+    /*src: url("fonts/FairfaxStationNF.ttf");*/
+    src: url("../fonts/FairfaxStationNF.otf") format("opentype");
+    font-family: "AbrilFatface-Regular";
+    src: url("../fonts/AbrilFatface-Regular.ttf");
+}
+
+p {
+    font-size: 2vh;
+    font-family: "FairfaxStationNF";
+    }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "AbrilFatface-Regular";
+}
+
+
 /*START CSS CAROUSEL*/
 
 .carousel-fade {
@@ -6,7 +28,7 @@
 */        .item {
             transition-property: opacity;
         }
-        
+
         .item,
         .active.left,
         .active.right {
@@ -35,10 +57,10 @@
 
 
 
-html, 
-body, 
-.carousel, 
-.carousel-inner, 
+html,
+body,
+.carousel,
+.carousel-inner,
 .carousel-inner .item {
     height: 100%;
 }
@@ -82,13 +104,3 @@ body,
 }
 
 /* END CAROUSEL CSS */
-
-
-.no-bottom-margin {
-    margin-bottom: 0px;
-}
-
-
-p {
-    font-size: 16px;
-}
