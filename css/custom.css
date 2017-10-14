@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: "FairfaxStationNF";
-    /*src: url("fonts/FairfaxStationNF.ttf");*/
+    src: url("fonts/FairfaxStationNF.ttf");
     src: url("../fonts/FairfaxStationNF.otf") format("opentype");
     font-family: "AbrilFatface-Regular";
     src: url("../fonts/AbrilFatface-Regular.ttf");
@@ -12,12 +12,19 @@
 
 p {
     font-size: 2vh;
-    font-family: "FairfaxStationNF";
+    font-family: "FairfaxStationNF", arial;
     }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "AbrilFatface-Regular";
 }
+
+
+a {
+  color: gray;
+}
+
+
 
 
 /*START CSS CAROUSEL*/
