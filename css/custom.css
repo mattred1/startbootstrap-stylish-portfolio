@@ -3,6 +3,10 @@ WEDDING COLORS ARE:
 PRIMARY: #D81E40 (red), #8DAECD (blue)
 SECONDARY: #7B050D (red), #627A5C (green), #F5E1E3 (white-ish)
 */
+img {
+    width: 100%
+    height: auto;
+}
 
 .wed-red {
     background-color: #D81E40;
@@ -56,7 +60,7 @@ a {
 }
 
 
-}
+
 
 
 
