@@ -46,30 +46,17 @@ h1, h2, h3, h4, h5, h6 {
 
 
 a {
-  color: blue;
+  color: #7B050D;
 }
 
 
 #accommodations {
     color: #F5E1E3; 
     background-image: url(../img/bmoreskyline-bw-blur.png);
-
-    a {
-        color: #D81E40;
-    }
 }
 
 
 
-
-
-
-#details h1 {
-    color: black;
-    h1 {
-        color: #D81E40;
-    }
-}
 
 
 
