@@ -1,3 +1,24 @@
+/*
+WEDDING COLORS ARE:
+PRIMARY: #D81E40 (red), #8DAECD (blue)
+SECONDARY: #7B050D (red), #627A5C (green), #F5E1E3 (white-ish)
+*/
+
+.wed-red {
+    background-color: #D81E40;
+}
+
+.wed-blue {
+   background-color: #8DAECD;
+}
+
+.wed-white {
+    background-color: #F5E1E3;
+    color: black;
+}
+
+
+
 .no-bottom-margin {
     margin-bottom: 0px;
 }
@@ -21,7 +42,29 @@ h1, h2, h3, h4, h5, h6 {
 
 
 a {
-  color: gray;
+  color: blue;
+}
+
+
+#accommodations {
+    color: #F5E1E3; 
+    background-image: url(../img/bmoreskyline.jpg);
+
+    a {
+        color: #D81E40;
+    }
+}
+
+
+}
+
+
+
+#details h1 {
+    color: black;
+    h1 {
+        color: #D81E40;
+    }
 }
 
 
