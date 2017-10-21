@@ -58,6 +58,34 @@ a {
 }
 
 
+img.centered {
+width:auto;
+max-width:100%;
+    margin: 0 auto;
+    float: none;
+}
+
+img.align-none {
+float:none;
+}
+
+p.centered {
+text-align: center;
+}
+
+h1.centered,
+h2.centered,
+h3.centered,
+h4.centered,
+h5.centered,
+h6.centered {
+text-align: center;
+}
+
+
+
+
+
 
 
 
