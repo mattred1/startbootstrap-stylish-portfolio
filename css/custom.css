@@ -137,41 +137,65 @@ body,
 }
 
 .item:nth-child(1) {
-    background-image: url(http://via.placeholder.com/400x400);
-    width: 400px;
+    background-image: url(../img/1.jpg);
+    width: 4000px;
     height: 400px;
 }
 
 .item:nth-child(2) {
-    background: orange;
+    background-image: url(../img/2.jpg);    
+    width: 4000px;
+    height: 400px;
+
 }
 
 .item:nth-child(3) {
-    background: yellow;
+    background-image: url(../img/3.jpg);
+    width: 4000px;
+    height: 400px;
+    
 }
 
 .item:nth-child(4) {
-    background: green;
+    background-image: url(../img/4.jpg);
+    width: 4000px;
+    height: 400px;
+    
 }
 
 .item:nth-child(5) {
-    background: blue;
+    background-image: url(../img/5.jpg);
+    width: 4000px;
+    height: 400px;
+    
 }
 
 .item:nth-child(6) {
-    background: white;
+    background-image: url(../img/6.jpg);
+    width: 4000px;
+    height: 400px;
+ 
 }
 
 .item:nth-child(7) {
-    background: purple;
+    background-image: url(../img/7.jpg);
+     width: 4000px;
+    height: 400px;
+
 }
 
 .item:nth-child(8) {
-    background: black;
+    background-image: url(../img/8.jpg);
+    width: 4000px;
+    height: 400px;
+
 }
 
 .item:nth-child(9) {
-    background: gray;
+    background-image: url(../img/9.jpg);
+    width: 4000px;
+    height: 400px;
+   
 }
 
 /* END CAROUSEL CSS */
