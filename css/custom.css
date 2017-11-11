@@ -58,6 +58,10 @@ a {
     background-image: url(../img/bmoreskyline-bw-blur.png);
 }
 
+.acbox {
+    opacity: .8;
+    filter: alpha(opacity=60);  /*For IE8 and earlier */
+}
 
 img.centered {
 width:auto;
