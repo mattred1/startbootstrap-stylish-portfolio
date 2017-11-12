@@ -63,6 +63,9 @@ a {
     filter: alpha(opacity=60);  /*For IE8 and earlier */
 }
 
+
+
+
 img.centered {
 width:auto;
 max-width:100%;
