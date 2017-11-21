@@ -61,6 +61,7 @@ a {
 .acbox {
     opacity: .8;
     filter: alpha(opacity=60);  /*For IE8 and earlier */
+    border-radius: 7px;
 }
 
 
