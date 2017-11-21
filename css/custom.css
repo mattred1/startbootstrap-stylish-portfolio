@@ -147,63 +147,45 @@ body,
 
 .item:nth-child(1) {
     background-image: url(../img/1.png);
-    width: 3000px;
-    height: 2006px;
 }
 
 .item:nth-child(2) {
     background-image: url(../img/2.png);    
-    width: 960px;
-    height: 526px;
 
 }
 
 .item:nth-child(3) {
     background-image: url(../img/3.png);
-    width: 720px;
-    height: 1019px;
     
 }
 
 .item:nth-child(4) {
     background-image: url(../img/4.png);
-    width: 3000px;
-    height: 1381px;
     
 }
 
 .item:nth-child(5) {
     background-image: url(../img/5.png);
-    width: 3000px;
-    height: 2107px;
     
 }
 
 .item:nth-child(6) {
     background-image: url(../img/6.png);
-    width: 3000px;
-    height: 1824px;
  
 }
 
 .item:nth-child(7) {
     background-image: url(../img/7.png);
-     width: 3000px;
-    height: 1884px;
 
 }
 
 .item:nth-child(8) {
     background-image: url(../img/8.png);
-    width: 3000px;
-    height: 2643px;
 
 }
 
 .item:nth-child(9) {
     background-image: url(../img/9.png);
-    width: 3000px;
-    height: 869px;
    
 }
 
